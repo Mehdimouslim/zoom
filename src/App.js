@@ -47,7 +47,7 @@ function App() {
   }
   return (
     <div style={{paddingLeft:40}}>
-      <h1>CRUD REACT-REDUX Example 2</h1>
+      <h1>CRUD REACT-REDUX</h1>
       <div align="center">
       
         <label>Nom</label>
